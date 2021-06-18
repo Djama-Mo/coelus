@@ -1,5 +1,7 @@
 # coelus!
 
+RUN: python3 coelus.py
+
 Ввод данных вручную:
 
 ![image](https://user-images.githubusercontent.com/59183324/122504807-b3813200-d003-11eb-847b-7520ce306266.png)
